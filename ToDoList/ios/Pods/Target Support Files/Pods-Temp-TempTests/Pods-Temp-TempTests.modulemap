@@ -1,0 +1,6 @@
+module Pods_Temp_TempTests {
+  umbrella header "Pods-Temp-TempTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

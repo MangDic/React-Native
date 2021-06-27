@@ -1,0 +1,6 @@
+module Pods_Temp {
+  umbrella header "Pods-Temp-umbrella.h"
+
+  export *
+  module * { export * }
+}
