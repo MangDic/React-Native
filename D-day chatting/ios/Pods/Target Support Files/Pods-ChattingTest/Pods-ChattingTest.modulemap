@@ -1,0 +1,6 @@
+module Pods_ChattingTest {
+  umbrella header "Pods-ChattingTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
